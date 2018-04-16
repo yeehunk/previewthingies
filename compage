@@ -1,0 +1,175 @@
+<div class="container">
+   <div class="card border-0 mb-2 mx-auto">
+      <div class="card-header bg-primary text-center">
+         <h1 class="display-3 text-white font-weight-bold">Title Here</h1>
+      </div>
+      <div class="card card-block border-0">
+         <!---------------------------------- INTRO HERE ------------------------------------------------>
+         <p>All colors will change with the theme! Preview images will resize for width & crop for height at 300px.</p>
+         <p>Write an intro here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sm pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat</p>
+         <br>
+         <!---------------------------------- PRICING HERE ------------------------------------------------>
+         <h1 class="display-4 font-weight-bold font-italic pl-2 mb-0 text-primary"> Pricing & Samples</h1>
+         <div class="card card-block card-outline-primary bg-faded mb-4" style="border-style:dashed;">
+            <div class="row">
+               <!---------------------- BLOCK ONE ------------------------------>
+               <div class="col-lg-6 mb-2">
+                  <div class="row">
+                     <div class="col-sm-7">
+                        <div class="card border-0 modal-open text-center" style="background:none; height:300px;">
+                           <!---------- ART SAMPLE HERE ------------------------------------------------->
+                           <img src='URL HERE' class="rounded">
+                        </div>
+                     </div>
+                     <div class="col-sm-5">
+                        <h2 class="text-center">Style 1</h2>
+                        <p class="text-center"><b>Samples</b>
+                           <br>[ <a href="SAMPLE 1" target="_blank">x</a> ] [  <a href="SAMPLE 2" target="_blank">x</a> ] [  <a href="SAMPLE 3" target="_blank">x</a> ]
+                        </p>
+                        <p>Write a short description here.
+                        <ul>
+                           <li><b>Headshot</b> - $xx </li>
+                           <li><b>Half Body</b> - $xx </li>
+                           <li><b>Full body</b> - $xx </li>
+                           <li><b>Chibi</b> - $xx </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <!---------------------- BLOCK TWO ------------------------------>
+               <div class="col-lg-6 mb-2">
+                  <div class="row">
+                     <div class="col-sm-7">
+                        <div class="card border-0 modal-open text-center" style="background:none; height:300px;">
+                           <!---------- ART SAMPLE HERE ------------------------------------------------->
+                           <img src=’URL HERE' class="rounded">
+                        </div>
+                     </div>
+                     <div class="col-sm-5">
+                        <h2 class="text-center">Style 2</h2>
+                        <p class="text-center"><b>Samples</b>
+                           <br>[ <a href="SAMPLE 1" target="_blank">x</a> ] [  <a href="SAMPLE 2" target="_blank">x</a> ] [  <a href="SAMPLE 3" target="_blank">x</a> ]
+                        </p>
+                        <p>Write a short description here.
+                        <ul>
+                           <li><b>Headshot</b> - $xx </li>
+                           <li><b>Half Body</b> - $xx </li>
+                           <li><b>Full body</b> - $xx </li>
+                           <li><b>Chibi</b> - $xx </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <!---------------------- BLOCK THEE ------------------------------>
+               <div class="col-lg-6 mb-2">
+                  <div class="row">
+                     <div class="col-sm-7">
+                        <div class="card border-0 modal-open text-center" style="background:none; height:300px;">
+                           <!---------- ART SAMPLE HERE ------------------------------------------------->
+                           <img src='URL HERE' class="rounded">
+                        </div>
+                     </div>
+                     <div class="col-sm-5">
+                        <h2 class="text-center">Style 3</h2>
+                        <p class="text-center"><b>Samples</b>
+                           <br>[ <a href="SAMPLE 1" target="_blank">x</a> ] [  <a href="SAMPLE 2" target="_blank">x</a> ] [  <a href="SAMPLE 3" target="_blank">x</a> ]
+                        </p>
+                        <p>Write a short description here.
+                        <ul>
+                           <li><b>Headshot</b> - $xx </li>
+                           <li><b>Half Body</b> - $xx </li>
+                           <li><b>Full body</b> - $xx </li>
+                           <li><b>Chibi</b> - $xx </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <!---------------------- BLOCK FOUR ------------------------------>
+               <div class="col-lg-6 mb-2">
+                  <div class="row">
+                     <div class="col-sm-7">
+                        <div class="card border-0 modal-open text-center" style="background:none; height:300px;">
+                           <!---------- ART SAMPLE HERE ------------------------------------------------->
+                           <img src='URL HERE' class="rounded">
+                        </div>
+                     </div>
+                     <div class="col-sm-5">
+                        <h2 class="text-center">Style 4</h2>
+                        <p class="text-center"><b>Samples</b>
+                           <br>[ <a href="SAMPLE 1" target="_blank">x</a> ] [  <a href="SAMPLE 2" target="_blank">x</a> ] [  <a href="SAMPLE 3" target="_blank">x</a> ]
+                        </p>
+                        <p>Write a short description here.
+                        <ul>
+                           <li><b>Headshot</b> - $xx </li>
+                           <li><b>Half Body</b> - $xx </li>
+                           <li><b>Full body</b> - $xx </li>
+                           <li><b>Chibi</b> - $xx </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!---------------------------------- DETAILS HERE ------------------------------------------------>
+         <h1 class="display-4 font-weight-bold font-italic pl-2 mb-0 text-primary"> Details</h1>
+         <div class="card card-block card-outline-primary bg-faded mb-4" style="border-style:dashed;">
+            <!------------------------------------------------ here's some example links for things like off site gallery, ToS, trello, etc. ---------------------->
+            <div class="row mb-2">
+               <div class="col-sm-4 mb-2">
+                  <a class="btn btn-primary btn-block text-white" href="LINK">Link One</a>
+               </div>
+               <div class="col-sm-4 mb-2">
+                  <a class="btn btn-primary btn-block text-white" href="LINK">Link Two</a>
+               </div>
+               <div class="col-sm-4 mb-2">
+                  <a class="btn btn-primary btn-block text-white" href="LINK">Link Three</a>
+               </div>
+            </div>
+            <!---------------------- STRENGTHS AND WEAKNESSES ---------------------------------------->
+            <div class="row mb-2">
+               <div class="col-sm-6">
+                  <h2><i class="fa fa-check"></i> Strengths</h2>
+                  <ul class="mb-0">
+                     <li class="mb-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                     <li class="mb-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                     <li class="mb-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                     <li class="mb-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                  </ul>
+               </div>
+               <div class="col-sm-6">
+                  <h2><i class="fa fa-remove"></i> Won't Draw</h2>
+                  <ul class="mb-0">
+                     <li class="mb-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                     <li class="mb-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                     <li class="mb-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                     <li class="mb-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                  </ul>
+               </div>
+            </div>
+            <!----------------------TERMS OF SERVICE ---------------------------------------->
+            <h2><i class="fa fa-info-circle"></i> Terms of Service</h2>
+            <ol class="mb-0 small">
+               <li> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum</li>
+               <li> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum</li>
+               <li> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum</li>
+               <li> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum</li>
+               <li> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum</li>
+            </ol>
+         </div>
+         <!---------------------------------- ORDERING DETAILS ------------------------------------------------>
+         <h1 class="display-4 font-weight-bold font-italic pl-2 mb-0 text-primary"> Ordering</h1>
+         <div class="card card-block card-outline-primary bg-faded mb-2" style="border-style:dashed;">
+            <p>Put your order details here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sm pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit. In vitae nisi eu mi suscipit semper in eget justo. Sed feugiat dictum posuere. Suspendisse et accumsan leo.</p>
+            <!------------------- make an order form here ----------------------------------------->
+            <h2 class="mt-2"> Form</h2>
+            <blockquote class="small">
+               <p><b>Name:</b> ---
+               <p><b>Comm type:</b> ---
+               <p><b>Refs:</b> ----
+               <p><b>Etc:</b> (put whatever you commission form is here)
+            </blockquote>
+         </div>
+      </div>
+   </div>
+   <p class="text-right small">HTML by @Wicked</p>
+</div>
